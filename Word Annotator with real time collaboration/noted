@@ -1,0 +1,62 @@
+There	EX 	 EX       Similar
+are	LS 	 LS       Similar
+aesthetic	POS 	 POS       Similar
+and	VBP 	 VBP       Similar
+recreational	VBN 	 NNS       Not Similar
+reasons	RP 	 RB       Not Similar
+for	WP 	 JJ       Not Similar
+an	VBP 	 WDT       Not Similar
+interest	VBZ 	 VBN       Not Similar
+in	VBN 	 JJR       Not Similar
+fishes	RB 	 DT       Not Similar
+Fishes	VBG 	 VBZ       Not Similar
+are	VB 	 CD       Not Similar
+of	VB 	 SYM       Not Similar
+interest	POS 	 MD       Not Similar
+to	RB 	 WDT       Not Similar
+humans	RB 	 PRP$       Not Similar
+for	VBG 	 FW       Not Similar
+many	VB 	 DT       Not Similar
+reasons	WP 	 IN       Not Similar
+the	UH 	 RB       Not Similar
+most	MD 	 FW       Not Similar
+important	WP 	 EX       Not Similar
+being	VBD 	 CC       Not Similar
+their	NNS 	 UH       Not Similar
+relationship	VB 	 WRB       Not Similar
+with	SYM 	 DT       Not Similar
+and	TO 	 FW       Not Similar
+dependence	PRP 	 RBR       Not Similar
+on	RB 	 RP       Not Similar
+the	WP 	 CC       Not Similar
+There	EX 	 EX       Similar
+are	LS 	 LS       Similar
+aesthetic	POS 	 POS       Similar
+and	VBP 	 VBP       Similar
+recreational	VBN 	 VBN       Similar
+reasons	RP 	 RP       Similar
+for	WP 	 WP       Similar
+an	VBP 	 VBP       Similar
+interest	VBZ 	 VBZ       Similar
+in	VBN 	 VBN       Similar
+fishes	RB 	 RB       Similar
+Fishes	VBG 	 VBG       Similar
+are	VB 	 VB       Similar
+of	VB 	 VB       Similar
+interest	POS 	 POS       Similar
+to	RB 	 RB       Similar
+humans	RB 	 RB       Similar
+for	VBG 	 VBG       Similar
+many	VB 	 VB       Similar
+reasons	WP 	 WP       Similar
+the	UH 	 UH       Similar
+most	MD 	 MD       Similar
+important	WP 	 WP       Similar
+being	VBD 	 VBD       Similar
+their	NNS 	 NNS       Similar
+relationship	VB 	 VB       Similar
+with	SYM 	 SYM       Similar
+and	TO 	 TO       Similar
+dependence	PRP 	 PRP       Similar
+on	RB 	 RB       Similar
+the	WP 	 WP       Similar

@@ -1,0 +1,6 @@
+  The/NN grand/NN jury/NN commented/NN on/NN a/NN number/NN of/IN
+other/AP topics/NNS ,/, AMONG/IN them/PPO the/AT Atlanta/NP and/CC
+Fulton/NP-tl County/NN-tl purchasing/VBG departments/NNS which/WDT it/PPS
+said/VBD ``/`` ARE/BER well/QL operated/VBN and/CC follow/VB generally/RB
+accepted/VBN practices/NNS which/WDT inure/VB to/IN the/AT best/JJT
+interest/NN of/IN both/ABX governments/NN 
